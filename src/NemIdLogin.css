@@ -1,0 +1,17 @@
+.bet25-login-nem {
+    justify-content: center;
+    align-items: center;
+}
+
+.log-ind-med-link {
+    font-size: 16px;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+.nem_id_logo {
+    width: 75px;
+    height: 16px;
+    display: inline-block;
+    background: url(./image/nem_id.png);
+}

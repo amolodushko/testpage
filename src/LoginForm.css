@@ -1,0 +1,14 @@
+.login-form {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+}
+
+.form-fields-wrapper {
+    margin-top: 140px;
+    margin-bottom: 268px;
+}
+
+.login-actions-wrapper {
+    margin: 0px auto;
+}
